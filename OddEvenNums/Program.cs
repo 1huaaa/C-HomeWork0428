@@ -16,8 +16,8 @@ namespace OddEvenNums
 
             var evenResult = numbers.Where(n => n % 2 == 0).OrderBy(n => n);
 
-            Console.WriteLine("奇數 : " + string.Join(",", oddResult));
-            Console.WriteLine("偶數 : " + string.Join(",", evenResult));
+            Console.WriteLine($"奇數 :  {string.Join(",", oddResult)}");
+            Console.WriteLine($"偶數 :  {string.Join(",", evenResult)}");
 
             Console.ReadLine();
         }

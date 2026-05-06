@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp1
+﻿namespace ReverseNums1
 {
     internal class Program
     {
