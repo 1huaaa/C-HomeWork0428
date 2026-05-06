@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="FarmerGame/FarmerGame.csproj" Id="36acdd66-2b8d-48f0-b0fe-1d1fa7fd9e5f" />
+  <Project Path="OddEvenNums/OddEvenNums.csproj" Id="b86f9e5a-cf84-442b-a7e6-117cfc9d20bc" />
+  <Project Path="ReverseNums1/ReverseNums1.csproj" Id="072bc5f3-285e-456a-ab32-94faac4ad797" />
+  <Project Path="ReverseNums2/ReverseNums2.csproj" />
+</Solution>
