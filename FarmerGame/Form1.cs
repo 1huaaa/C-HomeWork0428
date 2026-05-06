@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace FarmerGame   
+namespace FarmerGame
 {
     public partial class Form1 : Form
     {
@@ -127,9 +127,5 @@ namespace FarmerGame
             }
         }
 
-        private void listBoxRight_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }
